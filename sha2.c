@@ -1,5 +1,7 @@
 /*
- * FIPS 180-4 SHA-224/256/384/512 implementation
+ * FIPS 180-4 implementation
+ * SHA-224, SHA-256,SHA-384, SHA-512, SHA-512/224, SHA-512/384
+ *
  * see LICENSE file
  */
 
